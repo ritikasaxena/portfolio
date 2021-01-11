@@ -48,7 +48,7 @@ export default function Contact() {
             <img
               alt="Saad Working"
               src={require(`../../assets/images/${
-                isDark ? "contactMailDark.svg" : "contactMail.webp"
+                isDark ? "contactMe.svg" : "contactMe.svg"
               }`)}
             ></img>
           </div>

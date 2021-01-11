@@ -32,7 +32,7 @@
   color: #868e96;
 }
 
-.saaya-health-div,
+.saaya-health-div, 
 .nextu-div {
   cursor: pointer;
 }
@@ -45,4 +45,5 @@
     font-size: 16px;
     text-align: center;
   }
+
 }
