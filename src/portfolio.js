@@ -10,7 +10,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Ritika Saxena",
   title: "Hi, I'm Ritika",
-  subTitle: emoji("I'm a passionate software engineer working in Boston. I'm looking to go back to school to get a Master's in Human Computer Interaction, so that I can create accessibile and enjoyable technology."),
+  subTitle: emoji("I'm a passionate software engineer working in Boston. I'm looking to go back to school to get a Master's in Human Computer Interaction, so that I can create accessible and enjoyable technology."),
   resumeLink: "https://drive.google.com/file/d/19JiFek8U7Zl-yjYyX3iQrIZoPMxbX8ko/view?usp=sharing"
 };
 
