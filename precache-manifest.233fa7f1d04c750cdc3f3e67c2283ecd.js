@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c21aed4550b88bbf99cc3858468c3363",
+    "revision": "21e664c72ddc631b3100b6b70c3135fb",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "d39d5aa954cee2c05c7e",
+    "revision": "48d2152316ed168e3dee",
     "url": "/portfolio/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "a6eb6c75f851ce612455",
+    "revision": "06b913e8cc987cd255fa",
     "url": "/portfolio/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "8fe40e4c8b67f02cd62c",
+    "revision": "fca5d81752f11d259e92",
     "url": "/portfolio/static/css/main.d25040c8.chunk.css"
   },
   {
-    "revision": "ca78619966b67cf91251",
-    "url": "/portfolio/static/js/2.dd5d0f1f.chunk.js"
+    "revision": "191229a03ecb568de471",
+    "url": "/portfolio/static/js/2.a62582e4.chunk.js"
   },
   {
-    "revision": "d39d5aa954cee2c05c7e",
-    "url": "/portfolio/static/js/3.f9b34351.chunk.js"
+    "revision": "48d2152316ed168e3dee",
+    "url": "/portfolio/static/js/3.d2253366.chunk.js"
   },
   {
-    "revision": "a6eb6c75f851ce612455",
-    "url": "/portfolio/static/js/4.aa3d8e4d.chunk.js"
+    "revision": "06b913e8cc987cd255fa",
+    "url": "/portfolio/static/js/4.56a84820.chunk.js"
   },
   {
-    "revision": "8fe40e4c8b67f02cd62c",
-    "url": "/portfolio/static/js/main.8f4221a2.chunk.js"
+    "revision": "fca5d81752f11d259e92",
+    "url": "/portfolio/static/js/main.590a1ea4.chunk.js"
   },
   {
-    "revision": "bd35b9332d6bcbf5ee9a",
-    "url": "/portfolio/static/js/runtime-main.eef84454.js"
+    "revision": "3f8623d2b4b146c98ccf",
+    "url": "/portfolio/static/js/runtime-main.e3ca9c90.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/portfolio/static/media/airbnbLogo.c59720d6.png"
   },
   {
     "revision": "b00d193678f805fea196f29c0bb0372e",
@@ -60,20 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/cocLogo.28296457.png"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/portfolio/static/media/codeInLogo.47a7a717.webp"
-  },
-  {
     "revision": "62dfa17d07233f0ff26136215d1dcf5e",
     "url": "/portfolio/static/media/codestelLogo.62dfa17d.png"
-  },
-  {
-    "revision": "68e841388612be0c5143e2932fb77d4f",
-    "url": "/portfolio/static/media/contactMail.68e84138.webp"
-  },
-  {
-    "revision": "51cf7192327488da3d2a171280680c16",
-    "url": "/portfolio/static/media/contactMailDark.51cf7192.svg"
   },
   {
     "revision": "7b1e30170dbae01b1d53bde27d772811",
